@@ -2,8 +2,8 @@
 
 ---
 
-## React App, with a dropdown-list, where the user can choose between different languages,
-e.g. (GER, ENG, ES...).
+## React App, with a dropdown-list
+- where the user can choose between different languages, e.g. (GER, ENG, ES...).
 
 
 
